@@ -1,7 +1,10 @@
+import TicTacToe from "./pages/tic-tac-toe"
 
 const App = () => {
   return (
-    <div>App</div>
+    <main>
+        <TicTacToe />
+    </main>
   )
 }
 
